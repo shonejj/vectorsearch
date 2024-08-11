@@ -34,3 +34,6 @@ A sample project for vector searching using chromadb , fastapi and integrating G
     ```bash
     python3 main.py
 
+7. **open the created api at**
+
+    visit localhost:8000/docs
